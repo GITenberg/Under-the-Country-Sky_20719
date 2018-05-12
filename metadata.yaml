@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '2216'
     url: http://www.gutenberg.org/2009/agents/2216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20719#Under-the-Country-Sky
 gutenberg_issued: '2007-03-01'
 gutenberg_type: Text
 identifiers:
